@@ -13,7 +13,7 @@ The data comes from the UCI Machine Learning Database.
 ## Result & Conclusion
 Aim training_loss: 0.09 & validation_loss: 0.18
 My hyperparameters: 
- <br />iterations = 50000 </br>
+ <br />iterations = 50000
  <br />learning_rate = 0.1
  <br />hidden_nodes = 100
  <br /> output_nodes = 1
