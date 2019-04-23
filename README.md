@@ -17,6 +17,8 @@ My hyperparameters:
  <br />learning_rate = 0.1
  <br />hidden_nodes = 100
  <br /> output_nodes = 1
+ 
+ ![bikesharing_pred](https://user-images.githubusercontent.com/39072490/56610885-c9367080-65cd-11e9-913f-8d2b4c469c1f.jpg)
 
 ## References
 * Udacity Deep Learning Nanodegree Program
